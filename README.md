@@ -47,7 +47,7 @@ The menu includes a set of <b>Presets</b>. These values are meant to be artistic
 
 ### Reference
 Planetside Software Forum post (with more information about this script) <br>
-Coming soon <br>
+https://planetside.co.uk/forums/index.php/topic,30977.0.html <br>
 
 terragen-rpc <br>
 https://github.com/planetside-software/terragen-rpc
